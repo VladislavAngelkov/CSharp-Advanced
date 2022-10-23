@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Miner/1.0.0": {
+        "dependencies": {
+          "SquaresInMatrix": "1.0.0"
+        },
+        "runtime": {
+          "Miner.dll": {}
+        }
+      },
+      "SquaresInMatrix/1.0.0": {
+        "runtime": {
+          "SquaresInMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Miner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SquaresInMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

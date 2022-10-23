@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache

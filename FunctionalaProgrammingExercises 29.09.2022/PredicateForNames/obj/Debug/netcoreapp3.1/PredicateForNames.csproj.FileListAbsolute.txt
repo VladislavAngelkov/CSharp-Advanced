@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.exe
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.deps.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.genruntimeconfig.cache

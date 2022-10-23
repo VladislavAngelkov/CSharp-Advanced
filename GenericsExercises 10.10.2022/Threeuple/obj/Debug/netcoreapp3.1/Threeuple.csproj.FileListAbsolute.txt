@@ -1,0 +1,13 @@
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

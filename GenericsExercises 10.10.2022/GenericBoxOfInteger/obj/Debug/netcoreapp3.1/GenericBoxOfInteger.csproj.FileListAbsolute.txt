@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.exe
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.deps.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyDrinks", "CSharpRegularExam 22.10.2022\EnergyDrinks.csproj", "{C8DC7B13-39D6-4EB9-8B91-282FED7BB744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RallyRacing", "RallyRacing\RallyRacing.csproj", "{36A84594-C22D-46DE-9241-386E5C3DE969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DC7B13-39D6-4EB9-8B91-282FED7BB744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DC7B13-39D6-4EB9-8B91-282FED7BB744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DC7B13-39D6-4EB9-8B91-282FED7BB744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DC7B13-39D6-4EB9-8B91-282FED7BB744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A84594-C22D-46DE-9241-386E5C3DE969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A84594-C22D-46DE-9241-386E5C3DE969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A84594-C22D-46DE-9241-386E5C3DE969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A84594-C22D-46DE-9241-386E5C3DE969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C934690E-9C7C-4548-ABA0-B00EC3234097}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\SongsQueue.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\SongsQueue.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\SongsQueue.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\SongsQueue.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\SongsQueue.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\ref\SongsQueue.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\bin\Debug\net5.0\SongsQueue.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\ref\SongsQueue.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SongsQueue\obj\Debug\net5.0\SongsQueue.genruntimeconfig.cache

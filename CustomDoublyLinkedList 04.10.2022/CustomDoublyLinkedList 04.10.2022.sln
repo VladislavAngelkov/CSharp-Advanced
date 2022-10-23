@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDoublyLinkedList", "CustomDoublyLinkedList\CustomDoublyLinkedList.csproj", "{8BD40EDD-0EF5-4F3E-9F28-09AC08DB80BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD40EDD-0EF5-4F3E-9F28-09AC08DB80BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD40EDD-0EF5-4F3E-9F28-09AC08DB80BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD40EDD-0EF5-4F3E-9F28-09AC08DB80BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD40EDD-0EF5-4F3E-9F28-09AC08DB80BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B99ECF-3546-4B79-9891-5C9A1CA187BA}
+	EndGlobalSection
+EndGlobal

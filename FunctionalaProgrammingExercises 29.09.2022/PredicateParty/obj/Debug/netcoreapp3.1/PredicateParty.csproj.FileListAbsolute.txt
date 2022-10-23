@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.exe
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.deps.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.genruntimeconfig.cache

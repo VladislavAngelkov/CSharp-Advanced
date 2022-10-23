@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesExercises 26.09.2022\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache

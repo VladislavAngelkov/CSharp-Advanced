@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\ref\PrintEvenNumbers.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\ref\PrintEvenNumbers.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.genruntimeconfig.cache

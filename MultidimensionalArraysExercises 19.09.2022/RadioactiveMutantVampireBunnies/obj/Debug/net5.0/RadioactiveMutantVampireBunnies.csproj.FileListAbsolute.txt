@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\ref\RadioactiveMutantVampireBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\ref\RadioactiveMutantVampireBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.genruntimeconfig.cache

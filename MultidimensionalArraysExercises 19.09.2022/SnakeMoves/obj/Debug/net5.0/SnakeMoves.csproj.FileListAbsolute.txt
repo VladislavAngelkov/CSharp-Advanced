@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\SnakeMoves.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\SnakeMoves.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\SnakeMoves.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\SnakeMoves.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\SnakeMoves.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\ref\SnakeMoves.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\bin\Debug\net5.0\SnakeMoves.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\ref\SnakeMoves.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\SnakeMoves\obj\Debug\net5.0\SnakeMoves.genruntimeconfig.cache

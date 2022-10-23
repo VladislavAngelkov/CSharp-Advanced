@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.exe
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.deps.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.genruntimeconfig.cache

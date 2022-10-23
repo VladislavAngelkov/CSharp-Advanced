@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache

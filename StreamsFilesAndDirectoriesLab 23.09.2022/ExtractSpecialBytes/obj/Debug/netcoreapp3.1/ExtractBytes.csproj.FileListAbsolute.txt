@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytes.exe
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytes.deps.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytes.genruntimeconfig.cache

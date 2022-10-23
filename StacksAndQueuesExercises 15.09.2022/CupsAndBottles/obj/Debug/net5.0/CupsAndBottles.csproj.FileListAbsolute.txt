@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\ref\CupsAndBottles.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\ref\CupsAndBottles.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.genruntimeconfig.cache

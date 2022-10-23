@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.exe
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.deps.json
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.dll
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.pdb
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.dll
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.pdb
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.genruntimeconfig.cache

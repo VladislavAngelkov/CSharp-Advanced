@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\StackSum.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\StackSum.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\StackSum.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\StackSum.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\StackSum.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\ref\StackSum.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\bin\Debug\net5.0\StackSum.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\ref\StackSum.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\StackSum\obj\Debug\net5.0\StackSum.genruntimeconfig.cache

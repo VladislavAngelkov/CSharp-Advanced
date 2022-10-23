@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFinder", "FoodFinder\FoodFinder.csproj", "{468185BA-96D0-4144-875D-FCE2ABD9A8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PownWars", "PownWars\PownWars.csproj", "{C6676AA6-87DF-447B-A90B-27AEC5736088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468185BA-96D0-4144-875D-FCE2ABD9A8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468185BA-96D0-4144-875D-FCE2ABD9A8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468185BA-96D0-4144-875D-FCE2ABD9A8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468185BA-96D0-4144-875D-FCE2ABD9A8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6676AA6-87DF-447B-A90B-27AEC5736088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6676AA6-87DF-447B-A90B-27AEC5736088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6676AA6-87DF-447B-A90B-27AEC5736088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6676AA6-87DF-447B-A90B-27AEC5736088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00D7DB8-C616-4929-87BD-E63B008663A2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ProductShop.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ProductShop.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ProductShop.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ProductShop.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ProductShop.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ref\ProductShop.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\bin\Debug\net5.0\ProductShop.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ref\ProductShop.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\ProductShop\obj\Debug\net5.0\ProductShop.genruntimeconfig.cache

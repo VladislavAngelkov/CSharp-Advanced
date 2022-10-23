@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\SquareWithMatrixSum.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\SquareWithMatrixSum.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\SquareWithMatrixSum.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\SquareWithMatrixSum.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\SquareWithMatrixSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\ref\SquareWithMatrixSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\bin\Debug\net5.0\SquareWithMatrixSum.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\ref\SquareWithMatrixSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SquareWithMatrixSum\obj\Debug\net5.0\SquareWithMatrixSum.genruntimeconfig.cache

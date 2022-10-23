@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\TheVLogger.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\TheVLogger.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\TheVLogger.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\TheVLogger.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\TheVLogger.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\ref\TheVLogger.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\bin\Debug\net5.0\TheVLogger.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\ref\TheVLogger.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\TheVLogger\obj\Debug\net5.0\TheVLogger.genruntimeconfig.cache

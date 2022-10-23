@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\KnightGame.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\KnightGame.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\KnightGame.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\KnightGame.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\KnightGame.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\ref\KnightGame.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\bin\Debug\net5.0\KnightGame.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\ref\KnightGame.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\KnightGame\obj\Debug\net5.0\KnightGame.genruntimeconfig.cache

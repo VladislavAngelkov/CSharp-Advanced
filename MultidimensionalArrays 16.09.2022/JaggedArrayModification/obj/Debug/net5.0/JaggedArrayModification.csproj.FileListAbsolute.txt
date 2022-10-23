@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\ref\JaggedArrayModification.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\bin\Debug\net5.0\JaggedArrayModification.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\ref\JaggedArrayModification.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.genruntimeconfig.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\JaggedArrayModification\obj\Debug\net5.0\JaggedArrayModification.csproj.AssemblyReference.cache

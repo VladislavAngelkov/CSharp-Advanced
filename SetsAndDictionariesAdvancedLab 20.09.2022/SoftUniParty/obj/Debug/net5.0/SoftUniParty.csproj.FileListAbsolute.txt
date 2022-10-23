@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\SoftUniParty.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\SoftUniParty.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\SoftUniParty.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\SoftUniParty.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\SoftUniParty.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\ref\SoftUniParty.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\bin\Debug\net5.0\SoftUniParty.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\ref\SoftUniParty.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\SoftUniParty\obj\Debug\net5.0\SoftUniParty.genruntimeconfig.cache

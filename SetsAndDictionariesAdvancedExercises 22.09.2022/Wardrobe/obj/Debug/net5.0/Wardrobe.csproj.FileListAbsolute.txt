@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\Wardrobe.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\Wardrobe.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\Wardrobe.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\Wardrobe.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\Wardrobe.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\ref\Wardrobe.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\bin\Debug\net5.0\Wardrobe.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\ref\Wardrobe.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Wardrobe\obj\Debug\net5.0\Wardrobe.genruntimeconfig.cache

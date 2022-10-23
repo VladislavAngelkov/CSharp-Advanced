@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\ref\SumMatrixElements.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\ref\SumMatrixElements.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\SymbolInMatrix.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\SymbolInMatrix.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\SymbolInMatrix.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\SymbolInMatrix.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\ref\SymbolInMatrix.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\bin\Debug\net5.0\SymbolInMatrix.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\ref\SymbolInMatrix.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArrays 16.09.2022\SymbolInMatrix\obj\Debug\net5.0\SymbolInMatrix.genruntimeconfig.cache

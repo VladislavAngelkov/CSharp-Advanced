@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\ref\CitiesByContinentAndCountry.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\ref\CitiesByContinentAndCountry.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.genruntimeconfig.cache

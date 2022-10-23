@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CopmaringObjects/1.0.0": {
+        "runtime": {
+          "CopmaringObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopmaringObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

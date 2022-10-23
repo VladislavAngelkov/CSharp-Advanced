@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\ref\RecordUniqueNames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\ref\RecordUniqueNames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.genruntimeconfig.cache

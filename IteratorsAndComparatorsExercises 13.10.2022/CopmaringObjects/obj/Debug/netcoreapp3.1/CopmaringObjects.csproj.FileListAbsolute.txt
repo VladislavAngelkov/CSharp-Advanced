@@ -1,0 +1,13 @@
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\bin\Debug\netcoreapp3.1\CopmaringObjects.exe
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\bin\Debug\netcoreapp3.1\CopmaringObjects.deps.json
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\bin\Debug\netcoreapp3.1\CopmaringObjects.runtimeconfig.json
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\bin\Debug\netcoreapp3.1\CopmaringObjects.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\bin\Debug\netcoreapp3.1\CopmaringObjects.dll
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\bin\Debug\netcoreapp3.1\CopmaringObjects.pdb
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.dll
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.pdb
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CopmaringObjects\obj\Debug\netcoreapp3.1\CopmaringObjects.genruntimeconfig.cache

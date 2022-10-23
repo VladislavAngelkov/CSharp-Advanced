@@ -1,0 +1,13 @@
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\bin\Debug\netcoreapp3.1\CustomCoperator.exe
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\bin\Debug\netcoreapp3.1\CustomCoperator.deps.json
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\bin\Debug\netcoreapp3.1\CustomCoperator.runtimeconfig.json
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\bin\Debug\netcoreapp3.1\CustomCoperator.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\bin\Debug\netcoreapp3.1\CustomCoperator.dll
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\bin\Debug\netcoreapp3.1\CustomCoperator.pdb
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.dll
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.pdb
+C:\Users\gdpbz\source\repos\IteratorsAndComparatorsExercises 13.10.2022\CustomCoperator\obj\Debug\netcoreapp3.1\CustomCoperator.genruntimeconfig.cache

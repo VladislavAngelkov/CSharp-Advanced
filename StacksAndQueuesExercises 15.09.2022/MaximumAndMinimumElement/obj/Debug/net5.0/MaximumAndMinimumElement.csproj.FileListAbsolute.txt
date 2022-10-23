@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\ref\MaximumAndMinimumElement.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\ref\MaximumAndMinimumElement.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.genruntimeconfig.cache

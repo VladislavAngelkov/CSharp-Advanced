@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\ref\MatchingBrackets.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\ref\MatchingBrackets.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.genruntimeconfig.cache

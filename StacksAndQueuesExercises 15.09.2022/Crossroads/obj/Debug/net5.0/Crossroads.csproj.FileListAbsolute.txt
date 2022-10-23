@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\Crossroads.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\Crossroads.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\Crossroads.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\ref\Crossroads.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\bin\Debug\net5.0\Crossroads.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\ref\Crossroads.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\Crossroads\obj\Debug\net5.0\Crossroads.genruntimeconfig.cache

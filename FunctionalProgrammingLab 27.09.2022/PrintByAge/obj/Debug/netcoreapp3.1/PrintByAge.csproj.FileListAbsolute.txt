@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\bin\Debug\netcoreapp3.1\PrintByAge.exe
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\bin\Debug\netcoreapp3.1\PrintByAge.deps.json
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\bin\Debug\netcoreapp3.1\PrintByAge.runtimeconfig.json
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\bin\Debug\netcoreapp3.1\PrintByAge.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\bin\Debug\netcoreapp3.1\PrintByAge.dll
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\bin\Debug\netcoreapp3.1\PrintByAge.pdb
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.dll
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.pdb
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\PrintByAge\obj\Debug\netcoreapp3.1\PrintByAge.genruntimeconfig.cache

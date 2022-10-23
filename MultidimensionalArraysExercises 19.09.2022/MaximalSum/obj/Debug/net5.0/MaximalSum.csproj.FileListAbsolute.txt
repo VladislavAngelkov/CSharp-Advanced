@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\MaximalSum.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\MaximalSum.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\MaximalSum.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\MaximalSum.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\MaximalSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\ref\MaximalSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\bin\Debug\net5.0\MaximalSum.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\ref\MaximalSum.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\MaximalSum\obj\Debug\net5.0\MaximalSum.genruntimeconfig.cache

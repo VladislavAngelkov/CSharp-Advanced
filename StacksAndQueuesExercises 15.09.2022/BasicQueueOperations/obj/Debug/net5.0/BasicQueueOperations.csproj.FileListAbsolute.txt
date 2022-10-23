@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\ref\BasicQueueOperations.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\ref\BasicQueueOperations.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.genruntimeconfig.cache

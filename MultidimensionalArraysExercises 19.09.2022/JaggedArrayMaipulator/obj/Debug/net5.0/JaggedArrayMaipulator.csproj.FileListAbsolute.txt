@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\JaggedArrayMaipulator.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\JaggedArrayMaipulator.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\JaggedArrayMaipulator.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\JaggedArrayMaipulator.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\JaggedArrayMaipulator.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\ref\JaggedArrayMaipulator.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\bin\Debug\net5.0\JaggedArrayMaipulator.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\ref\JaggedArrayMaipulator.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\JaggedArrayMaipulator\obj\Debug\net5.0\JaggedArrayMaipulator.genruntimeconfig.cache

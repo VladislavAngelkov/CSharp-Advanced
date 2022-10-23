@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\bin\Debug\netcoreapp3.1\TileMaster.exe
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\bin\Debug\netcoreapp3.1\TileMaster.deps.json
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\bin\Debug\netcoreapp3.1\TileMaster.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\bin\Debug\netcoreapp3.1\TileMaster.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\bin\Debug\netcoreapp3.1\TileMaster.dll
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\bin\Debug\netcoreapp3.1\TileMaster.pdb
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.dll
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.pdb
+C:\Users\gdpbz\source\repos\ExamPreparation 14.10.2022\TileMaster\obj\Debug\netcoreapp3.1\TileMaster.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\SopmleCalculator.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\SopmleCalculator.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\SopmleCalculator.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\SopmleCalculator.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\SopmleCalculator.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\ref\SopmleCalculator.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\bin\Debug\net5.0\SopmleCalculator.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\ref\SopmleCalculator.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesLab 13.09.2022\SopmleCalculator\obj\Debug\net5.0\SopmleCalculator.genruntimeconfig.cache

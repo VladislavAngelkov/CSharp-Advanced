@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\SipmleTextEditor.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\SipmleTextEditor.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\SipmleTextEditor.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\SipmleTextEditor.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\SipmleTextEditor.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\ref\SipmleTextEditor.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\bin\Debug\net5.0\SipmleTextEditor.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\ref\SipmleTextEditor.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\SipmleTextEditor\obj\Debug\net5.0\SipmleTextEditor.genruntimeconfig.cache

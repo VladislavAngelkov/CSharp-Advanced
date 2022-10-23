@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\bin\Debug\netcoreapp3.1\PownWars.exe
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\bin\Debug\netcoreapp3.1\PownWars.deps.json
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\bin\Debug\netcoreapp3.1\PownWars.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\bin\Debug\netcoreapp3.1\PownWars.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\bin\Debug\netcoreapp3.1\PownWars.dll
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\bin\Debug\netcoreapp3.1\PownWars.pdb
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.dll
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.pdb
+C:\Users\gdpbz\source\repos\ExamPreparation 17.10.2022\PownWars\obj\Debug\netcoreapp3.1\PownWars.genruntimeconfig.cache

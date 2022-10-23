@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\bin\Debug\netcoreapp3.1\SortEvenNumbers1.exe
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\bin\Debug\netcoreapp3.1\SortEvenNumbers1.deps.json
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\bin\Debug\netcoreapp3.1\SortEvenNumbers1.runtimeconfig.json
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\bin\Debug\netcoreapp3.1\SortEvenNumbers1.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\bin\Debug\netcoreapp3.1\SortEvenNumbers1.dll
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\bin\Debug\netcoreapp3.1\SortEvenNumbers1.pdb
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.dll
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.pdb
+C:\Users\gdpbz\source\repos\FunctionalProgrammingLab 27.09.2022\SortEvenNumbers1\obj\Debug\netcoreapp3.1\SortEvenNumbers1.genruntimeconfig.cache

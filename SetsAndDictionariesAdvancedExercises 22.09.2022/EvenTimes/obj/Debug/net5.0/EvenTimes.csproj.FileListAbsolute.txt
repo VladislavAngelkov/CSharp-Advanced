@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\EvenTimes.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\EvenTimes.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\EvenTimes.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\EvenTimes.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\EvenTimes.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\ref\EvenTimes.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\bin\Debug\net5.0\EvenTimes.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\ref\EvenTimes.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\EvenTimes\obj\Debug\net5.0\EvenTimes.genruntimeconfig.cache

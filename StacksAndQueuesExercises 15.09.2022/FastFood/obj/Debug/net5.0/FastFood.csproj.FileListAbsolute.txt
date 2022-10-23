@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\FastFood.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\FastFood.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\FastFood.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\ref\FastFood.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\bin\Debug\net5.0\FastFood.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\ref\FastFood.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\FastFood\obj\Debug\net5.0\FastFood.genruntimeconfig.cache

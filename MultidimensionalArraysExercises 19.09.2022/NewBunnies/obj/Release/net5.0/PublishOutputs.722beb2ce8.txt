@@ -1,0 +1,5 @@
+C:\Users\gdpbz\Desktop\NewBunnies.exe
+C:\Users\gdpbz\Desktop\NewBunnies.dll
+C:\Users\gdpbz\Desktop\NewBunnies.deps.json
+C:\Users\gdpbz\Desktop\NewBunnies.runtimeconfig.json
+C:\Users\gdpbz\Desktop\NewBunnies.pdb

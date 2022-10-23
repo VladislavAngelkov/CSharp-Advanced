@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\Ranking.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\Ranking.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\Ranking.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\ref\Ranking.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\bin\Debug\net5.0\Ranking.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\ref\Ranking.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.exe
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.deps.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.dll
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.pdb
+C:\Users\gdpbz\source\repos\FunctionalaProgrammingExercises 29.09.2022\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.genruntimeconfig.cache

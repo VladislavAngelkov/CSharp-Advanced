@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\ref\CountSameValuesInArray.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\ref\CountSameValuesInArray.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedLab 20.09.2022\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.genruntimeconfig.cache

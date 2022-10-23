@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\NewBunnies.exe
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\NewBunnies.deps.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\NewBunnies.runtimeconfig.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\NewBunnies.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\NewBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\ref\NewBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\bin\Debug\net5.0\NewBunnies.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\ref\NewBunnies.dll
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.pdb
+C:\Users\gdpbz\source\repos\MultidimensionalArraysExercises 19.09.2022\NewBunnies\obj\Debug\net5.0\NewBunnies.genruntimeconfig.cache

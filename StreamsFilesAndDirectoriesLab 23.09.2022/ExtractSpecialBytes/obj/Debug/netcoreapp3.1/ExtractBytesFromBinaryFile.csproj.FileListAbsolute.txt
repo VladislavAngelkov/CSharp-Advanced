@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.exe
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.deps.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.dll
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.pdb
+C:\Users\gdpbz\source\repos\StreamsFilesAndDirectoriesLab 23.09.2022\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractBytesFromBinaryFile.genruntimeconfig.cache

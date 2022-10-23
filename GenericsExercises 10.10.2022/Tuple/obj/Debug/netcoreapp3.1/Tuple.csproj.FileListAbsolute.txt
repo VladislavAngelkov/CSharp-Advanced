@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\gdpbz\source\repos\GenericsExercises 10.10.2022\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache

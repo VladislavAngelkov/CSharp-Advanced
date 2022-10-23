@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\BalancedParenthesis.exe
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\BalancedParenthesis.deps.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\BalancedParenthesis.runtimeconfig.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\BalancedParenthesis.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\BalancedParenthesis.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\ref\BalancedParenthesis.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\bin\Debug\net5.0\BalancedParenthesis.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\ref\BalancedParenthesis.dll
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.pdb
+C:\Users\gdpbz\source\repos\StacksAndQueuesExercises 15.09.2022\BalancedParenthesis\obj\Debug\net5.0\BalancedParenthesis.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.exe
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.deps.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\ref\UniqueUsernames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\bin\Debug\net5.0\UniqueUsernames.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\ref\UniqueUsernames.dll
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.pdb
+C:\Users\gdpbz\source\repos\SetsAndDictionariesAdvancedExercises 22.09.2022\UniqueUsernames\obj\Debug\net5.0\UniqueUsernames.genruntimeconfig.cache
